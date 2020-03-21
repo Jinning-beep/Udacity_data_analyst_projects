@@ -8,5 +8,10 @@ This repository contains all the projects and analysis done under the udacity na
 * Use linear regression to draw conclusion and predict further trend
 ## Project 2 EDA of Soccer Database
 * use MySQL to retrieve and combine data from various tables
-
+* use Python to analyse data
+* include the analysis on the following questions:
+	* Are home teams easier to win?
+	* Which League has the most number of goals?
+	* How does age affect the potential of the player?
+	* What team attributes lead to vectories?
 ## Project 3 A/B Testing
