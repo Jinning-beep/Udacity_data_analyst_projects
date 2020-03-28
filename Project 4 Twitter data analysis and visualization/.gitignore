@@ -1,0 +1,8 @@
+# ignore data files and reference .py files
+*.txt
+*.csv
+*.py
+*.pyc
+# ignore checkpints and caches
+.ipynb_checkpoints/
+_pycache_/
