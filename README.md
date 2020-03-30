@@ -15,3 +15,7 @@ This repository contains all the projects and analysis done under the udacity na
 	* How does age affect the potential of the player?
 	* What team attributes lead to vectories?
 ## Project 3 A/B Testing
+* conduct A/B testing analysis on a new feature of a web page
+* include visualization and analysis of the trend of conversion rate over time.
+* According to the results of logistic regression, there is no evidence that the conversion rate depends on date.
+## Project 4 Twitter data analysis and visualization
