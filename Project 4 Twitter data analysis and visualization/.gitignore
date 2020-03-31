@@ -3,6 +3,7 @@
 *.csv
 *.py
 *.pyc
+config.json
 # ignore checkpints and caches
 .ipynb_checkpoints/
 _pycache_/
