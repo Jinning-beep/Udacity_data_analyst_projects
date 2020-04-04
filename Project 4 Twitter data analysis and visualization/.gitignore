@@ -1,6 +1,5 @@
 # ignore data files and reference .py files
 *.txt
-*.csv
 *.py
 *.pyc
 config.json
