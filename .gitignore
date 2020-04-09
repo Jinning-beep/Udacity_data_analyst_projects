@@ -1,0 +1,6 @@
+*
+!*.ipynb
+!.gitattributes
+!.gitignore
+!readme.md
+!*/
